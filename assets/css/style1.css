@@ -31,6 +31,7 @@ img:hover {
     float: left;
 }
 
+/* I still have to figure out how to put texts on my picutres and align it perfectly. I think it has to do with positioning and the z-index.*/
 .banner {
     width: 170px;
     background-color: #4aaaa5;
